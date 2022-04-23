@@ -1,10 +1,10 @@
-Hi 👋 My name is Pedro
+Olá 👋 Meu nome é Pedro
 ======================
 
 Web developer
 -------------
 
-Desenvolvedor em Java com conhecimentos em linguagem C, SQL e aprimorando as habilidades em Front-End
+Desenvolvedor em Java com conhecimentos em linguagem C, SQL e aprimorando as habilidades em Front-End com HTML, CSS e JavaScript
 
 * 🌍  I'm based in Maceio/AL
 * ✉️  You can contact me at [pedrohma@gmail.com](mailto:pedrohma@gmail.com)

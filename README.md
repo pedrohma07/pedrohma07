@@ -10,8 +10,7 @@ Desenvolvedor em Java com conhecimentos em linguagem C, SQL e aprimorando as hab
 * ✉️  You can contact me at [pedrohma@gmail.com](mailto:pedrohma@gmail.com)
 * 🧠  I'm learning HTML, CSS e JavaScript
 
-<a href="https://www.github.com/pedrohma07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pedrohma07?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 

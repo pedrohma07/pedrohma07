@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Pedro
 ======================
 
-Web developer
+Developer
 -------------
 
 Desenvolvedor em Java com conhecimentos em linguagem C, SQL e aprimorando as habilidades em Front-End com HTML, CSS e JavaScript

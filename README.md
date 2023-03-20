@@ -7,7 +7,7 @@ Developer
 Desenvolvedor em Java com conhecimentos em linguagem C, SQL e aprimorando as habilidades em Front-End com HTML, CSS e JavaScript
 
 * 🌍  Moro em Maceio/AL
-* ✉️  Este é meu Email [pedrohma@gmail.com](mailto:pedrohma07@gmail.com)
+* ✉️  Este é meu Email [pedrohma07@gmail.com](mailto:pedrohma07@gmail.com)
 * 🧠  Eu estou aprendendo HTML, CSS e JavaScript
 
 

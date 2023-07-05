@@ -8,7 +8,7 @@ Desenvolvedor em Java com conhecimentos em linguagem C, SQL e aprimorando as hab
 
 * 🌍  Moro em Maceio/AL
 * ✉️  Este é meu Email [pedrohma07@gmail.com](mailto:pedrohma07@gmail.com)
-* 🧠  Eu estou aprendendo HTML, CSS e JavaScript
+* 🧠  Eu estou aprendendo Node com TypeScript
 
 
 

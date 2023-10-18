@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Interactive-card-details-form](https://github.com/pedrohma07/Interactive-card-details-form)
+- 🔭 I’m currently working on [api-clent-iq-nestjs](https://github.com/pedrohma07/api-client-iq-nestjs)
 
-- 🌱 I’m currently learning **TypeScript, Node, React...**
+- 🌱 I’m currently learning **Nestjs, Node, React, Angular...**
 
 - 👨‍💻 All of my projects are available at [in production...](in production...)
 
-- 💬 Ask me about **HTML, CSS, JS, Java...**
+- 💬 Ask me about **React, Angular, TS, Java...**
 
 - 📫 How to reach me **pedrohma07@gmail.com**
 
